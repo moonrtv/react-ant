@@ -1,0 +1,28 @@
+{
+  "name": "react-ant",
+  "version": "1.0.0",
+  "description": "A set of light React components :ant:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonrtv/react-ant.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "UI"
+  ],
+  "author": {
+    "name": "moonrtv",
+    "email": "moonrtv@ya.ru",
+    "url": "https://github.com/moonrtv"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moonrtv/react-ant/issues"
+  },
+  "homepage": "https://github.com/moonrtv/react-ant#readme"
+}
